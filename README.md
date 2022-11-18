@@ -1,24 +1,33 @@
-# strapi-project
+# cpnt-200-Achievements
 **Course title:** CPNT 200
 
-**Assignment name:** Assignment 2 - Strapi Project and Model
+**Assignment name:** Achievements - Content
 
 **Author:** Deoj Balcanao
 
-## Extras
+## Attributions
+Reference - https://www.rw-co.com/
 
-**Relation fields**
+Images from [pexels.com](https://www.pexels.com/) & [unsplash.com](https://unsplash.com/)
 
-I added relation fields to the **Category** & **Products**
-
-One to many relationship - a category can contain many products, and a product can belong to a single category.
-
-## Project Topic
-**Backend API for ecommerce website.**
-
-This project model is for an apparel ecommerce website. The website will offer an extensive collection of products for men and women from recognized brands and top designer names. Plus, it will also offer shoes and accessories, and a wide range of categories to sort through.
-
-The website allows users to retrieve a list of available products and provides detailed information such as product availability, sizing, colours, pricing and images. You can also filter your searches by category, gender, size, and colour, and you can also sort your search results by price, sale, ratings and more.
-## Site Map
- - link https://www.figma.com/file/mtpbiouMeTLYav6SYtwHWI/SITEMAP?node-id=0%3A1&t=pE0Hp5vuDzfl9My6-0
-![site-map](https://user-images.githubusercontent.com/76461008/201819454-3024a66e-43e4-4813-aaf9-9326f14eab4a.png)
+- https://www.pexels.com/photo/calm-black-man-standing-against-wooden-wall-6310924/
+- https://www.pexels.com/photo/black-man-with-hand-in-pocket-in-white-t-shirt-6311136/
+- https://www.pexels.com/photo/young-stylish-woman-in-gray-hoodie-6311613/
+- https://www.pexels.com/photo/cheerful-black-woman-wearing-white-t-shirt-and-pants-6311641/
+- https://www.pexels.com/photo/boy-in-green-sweater-and-brown-pants-5560026/
+- https://www.pexels.com/photo/content-ethnic-girl-in-stylish-clothes-on-white-background-5560029/
+- https://www.pexels.com/photo/pair-of-brown-leather-casual-shoes-on-table-298863/
+- https://www.pexels.com/photo/close-up-of-row-325876/
+- https://unsplash.com/photos/YGJ9vfuwyUg
+- https://unsplash.com/photos/iIjResyhhW0
+- https://unsplash.com/photos/ikjvPfC3pbI
+- https://unsplash.com/photos/7yONARoUsbY
+- https://unsplash.com/photos/5raPrOhbKQo
+- https://unsplash.com/photos/ahs1R32GG9Y
+- https://unsplash.com/photos/gsKdPcIyeGg
+- https://unsplash.com/photos/2_MhTaJsGgQ
+- https://unsplash.com/photos/miNo_SFAcws
+- https://unsplash.com/photos/R4xOiCIeOUs
+- https://unsplash.com/photos/KKsB-eOAjVo
+- https://unsplash.com/photos/uianIkmhuvk
+- https://unsplash.com/photos/NfZiOJzZgcg
