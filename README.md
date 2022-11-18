@@ -1,4 +1,4 @@
-# cpnt-200-Achievements
+# strapi-project
 **Course title:** CPNT 200
 
 **Assignment name:** Achievements - Content
